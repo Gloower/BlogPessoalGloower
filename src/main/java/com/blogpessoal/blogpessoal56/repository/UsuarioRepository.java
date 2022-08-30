@@ -1,4 +1,4 @@
-package com.blogpessoal.blogpessoal56.blog.repository;
+package com.blogpessoal.blogpessoal56.repository;
 
 import com.blogpessoal.blogpessoal56.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
